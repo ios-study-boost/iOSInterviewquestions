@@ -17,9 +17,9 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [mutating 키워드에 대해 설명하시오.](../../issues/13)
 - [탈출 클로저에 대하여 설명하시오.](../../issues/14)
 - [Extension에 대해 설명하시오.](../../issues/15)
-- [접근 제어자의 종류엔 어떤게 있는지 설명하시오](../../issues/16)
-- defer란 무엇인지 설명하시오.
-- defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.
+- [접근 제어자의 종류엔 어떤게 있는지 설명하시오.](../../issues/16)
+- [defer란 무엇인지 설명하시오.](../../issues/17)
+- [defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.](../../issues/18)
 
 ## iOS
 - Bounds 와 Frame 의 차이점을 설명하시오.
