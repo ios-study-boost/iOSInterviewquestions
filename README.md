@@ -1,6 +1,8 @@
 # iOSInterviewquestions
 From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions)
 
+매주 화, 목(오전 10시), 금(오후 3시 30분)에 각자 정리한 내용을 공유합니다. zoom을 이용해 온라인으로 진행하고 있습니다.
+
 ## Swift
 - [Optional 이란 무엇인지 설명하시오.](../../issues/1)
 - [Fast Enumeration 이란 무엇인지 설명하시오.](../../issues/2)
@@ -28,7 +30,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.](../../issues/22)
 - [scene delegate에 대해 설명하시오.](../../issues/23)
 - [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](../../issues/24)
-- NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.
+- [NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.](../../issues/25)
 - GCD API 동작 방식과 필요성에 대해 설명하시오.
 - 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.
 - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
