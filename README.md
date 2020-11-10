@@ -31,7 +31,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [scene delegate에 대해 설명하시오.](../../issues/23)
 - [앱이 In-Active 상태가 되는 시나리오를 설명하시오.](../../issues/24)
 - [NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.](../../issues/25)
-- GCD API 동작 방식과 필요성에 대해 설명하시오.
+- [GCD API 동작 방식과 필요성에 대해 설명하시오.](../../issues/26)
 - 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오.
 - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
 - Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.
