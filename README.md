@@ -38,7 +38,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [Delegate란 무언인가 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.](../../issues/30)
 - [NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오.](../../issues/31)
 - [UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?](../../issues/32)
-- TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.
+- [TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.](../../issues/33)
 - 하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.
 - App Bundle의 구조와 역할에 대해 설명하시오.
 - View 객체에 대해 설명하시오.
