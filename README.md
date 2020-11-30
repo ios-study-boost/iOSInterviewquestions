@@ -1,7 +1,7 @@
 # iOSInterviewquestions
 From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions)
 
-매주 화, 목(오전 10시), 금(오후 3시 30분)에 각자 정리한 내용을 공유합니다. zoom을 이용해 온라인으로 진행하고 있습니다.
+매주 월, 화, 목(오후 7시)에 각자 정리한 내용을 공유합니다. zoom을 이용해 온라인으로 진행하고 있습니다.
 
 ## Swift
 - [Optional 이란 무엇인지 설명하시오.](../../issues/1)
@@ -40,7 +40,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가?](../../issues/32)
 - [TableView를 동작 방식과 화면에 Cell을 출력하기 위해 최소한 구현해야 하는 DataSource 메서드를 설명하시오.](../../issues/33)
 - [하나의 View Controller 코드에서 여러 TableView Controller 역할을 해야 할 경우 어떻게 구분해서 구현해야 하는지 설명하시오.](../../issues/34)
-- App Bundle의 구조와 역할에 대해 설명하시오.
+- [App Bundle의 구조와 역할에 대해 설명하시오.](../../issues/35)
 - View 객체에 대해 설명하시오.
 - UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.
 - UIWindow 객체의 역할은 무엇인가?
