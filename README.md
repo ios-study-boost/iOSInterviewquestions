@@ -49,7 +49,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?](../../issues/41)
 - [UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?](../../issues/42)
 - [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?](../../issues/43)
-- 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?
+- [앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?](../../issues/44)
 - Swift의 클로저와 Objective-C의 블록은 어떤 차이가 있는가?
 - App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
 - App thinning에 대해서 설명하시오.
