@@ -51,7 +51,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?](../../issues/43)
 - [앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?](../../issues/44)
 - [Swift의 클로저와 Objective-C의 블록은 어떤 차이가 있는가?](../../issues/45)
-- App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
+- [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](../../issues/46)
 - App thinning에 대해서 설명하시오.
 - Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.
 
