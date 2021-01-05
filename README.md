@@ -53,7 +53,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [Swift의 클로저와 Objective-C의 블록은 어떤 차이가 있는가?](../../issues/45)
 - [App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.](../../issues/46)
 - [App thinning에 대해서 설명하시오.](../../issues/47)
-- Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.
+- [Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.](../../issues/48)
 
 ## Autolayout
 - 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)
