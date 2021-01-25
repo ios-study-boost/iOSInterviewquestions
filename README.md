@@ -64,7 +64,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.](../../issues/54)
 
 ## ARC
-- ARC란 무엇인지 설명하시오.
+- [ARC란 무엇인지 설명하시오.](../../issues/55)
 - Retain Count 방식에 대해 설명하시오.
 - Strong 과 Weak 참조 방식에 대해 설명하시오.
 - ARC 대신 Manual Reference Count 방식으로 구현할 때 꼭 사용해야 하는 메서드들을 쓰고 역할을 설명하시오.
