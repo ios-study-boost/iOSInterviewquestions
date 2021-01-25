@@ -61,7 +61,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [Intrinsic Size에 대해서 설명하시오.](../../issues/51)
 - [스토리보드를 이용했을때의 장단점을 설명하시오.](../../issues/52)
 - [Safearea에 대해서 설명하시오.](../../issues/53)
-- Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.
+- [Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.](../../issues/54)
 
 ## ARC
 - ARC란 무엇인지 설명하시오.
