@@ -1,0 +1,53 @@
+name: auto assign with comment
+on:
+  issue_comment:
+    types: [created]
+jobs:
+  # 댓글 내용의 키워드 'http'가 있는 모든 댓글 정보
+  job1:
+    name: find comments
+    runs-on: ubuntu-latest
+    outputs:
+      auth: ${{ steps.fcid.outputs.comments }}
+    steps:
+      - name: find
+        uses: actions-cool/issues-helper@v1.11
+        id: fcid
+        with:
+          actions: 'find-comments'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          body-includes: 'http'
+  # job1의 outputs에서 가장 마지막 댓글 작성자만 필터링
+  job2:
+    needs: job1
+    name: filter comment auth
+    runs-on: ubuntu-latest
+    outputs:
+      out: ${{ steps.filter.outputs.comment_id }}
+    steps:
+      - name: set output
+        id: set
+        run: |
+           echo ::set-output name=json_var::'${{ needs.job1.outputs.auth }}'
+      - name: filter auth
+        id: filter
+        run: |
+          echo ::set-output name=comment_id::"$(echo $json_var | jq -r '.[-1].auth')"
+        env:
+          json_var: ${{ steps.set.outputs.json_var}}
+  # job2의 댓글 작성자를 assignees로 등록
+  job3:
+    needs: [job1, job2]
+    name: add a ssigness
+    runs-on: ubuntu-latest
+    steps:
+      - name: print
+        run: echo ${{ needs.job2.outputs.out }}
+      - name: add
+        uses: actions-cool/issues-helper@v1.11
+        with:
+          actions: 'add-assignees'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          assignees: "${{needs.job2.outputs.out }}"
