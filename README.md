@@ -66,7 +66,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 ## ARC
 - [ARC란 무엇인지 설명하시오.](../../issues/55)
 - [Retain Count 방식에 대해 설명하시오.](../../issues/56)
-- Strong 과 Weak 참조 방식에 대해 설명하시오.
+- [Strong 과 Weak 참조 방식에 대해 설명하시오.](../../issues/57)
 - ARC 대신 Manual Reference Count 방식으로 구현할 때 꼭 사용해야 하는 메서드들을 쓰고 역할을 설명하시오.
 - retain 과 assign 의 차이점을 설명하시오.
 - 순환 참조에 대하여 설명하시오.
