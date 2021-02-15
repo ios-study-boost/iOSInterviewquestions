@@ -71,7 +71,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - [retain 과 assign 의 차이점을 설명하시오.](../../issues/61)
 - [순환 참조에 대하여 설명하시오.](../../issues/62)
 - [강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오.](../../issues/63)
-- 특정 객체를 autorelease 하기 위해 필요한 사항과 과정을 설명하시오.
+- [특정 객체를 autorelease 하기 위해 필요한 사항과 과정을 설명하시오.](../../issues/64)
 - Autorelease Pool을 사용해야 하는 상황을 두 가지 이상 예로 들어 설명하시오. 
 - 다음 코드를 실행하면 어떤 일이 발생할까 추측해서 설명하시오.
 Ball *ball = [[[[Ball alloc] init] autorelease] autorelease];
